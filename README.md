@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iMliuYong
 - 👀 I’m interested in Java or C++
-- 🌱 I’m currently learning at Martin
+- 🌱 I’m currently learning at USTC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me QQ 1573637338
 
